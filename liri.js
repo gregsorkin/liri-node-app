@@ -80,7 +80,7 @@ function doWhat() {
         }
 
         let text = data.split(",");
-        spotifyThisSong(text[0], text[1]);
+        spotifyThisSong(text);
     });
 };
 
