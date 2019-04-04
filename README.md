@@ -21,23 +21,22 @@ To retrieve the data that will power this app, you'll need to send requests usin
 
 ## **Let's see it in action!**
 Utilizing a switch case, we call a function based on the user input, from one of the following option:
-* concert-this + artist name
-* spotify-this-song + song title
-* movie-this + movie title
+* concert-this _+ artist name_
+* spotify-this-song _+ song title_
+* movie-this _+ movie title_
 
 ### **concert-this example**
 * example input: `node liri.js concert-this foo fighters` yields:
-*![image of concert-this](https://i.imgur.com/h1UVUD9.jpg)
-
-*![image of concert-this](https://i.imgur.com/QFjJqIA.jpg)
+![image of concert-this](https://i.imgur.com/h1UVUD9.jpg)
+![image of concert-this](https://i.imgur.com/QFjJqIA.jpg)
 
 ### **movie-this example** (includes a result if you don't search a title, defaulting to _"Mr. Nobody"_)
 * example input `node liri.js movie-this fight club`
 * example input `node liri.js movie-this captain marvel`
 * example input `node liri.js movie-this`
-* ![image of movie-this](https://i.imgur.com/Gsk13hQ.jpg)
+![image of movie-this](https://i.imgur.com/Gsk13hQ.jpg)
 
 ### **spotify-this-song example** (includes a result if you don't search a title, defaulting to _"The Sign"_)
 * example input: `node liri.js spotify-this-song i feel good`
 * example input `node liri.js spotify-this-song`
-* ![image of spotify-this-song](https://i.imgur.com/fLvVBTH.jpg)
+![image of spotify-this-song](https://i.imgur.com/fLvVBTH.jpg)
