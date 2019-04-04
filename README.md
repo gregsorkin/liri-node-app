@@ -27,17 +27,17 @@ Utilizing a switch case, we call a function based on the user input, from one of
 
 ### **concert-this example**
 * example input: `node liri.js concert-this foo fighters` yields:
-*![concert-this](https://drive.google.com/open?id=1STRHU21mIrpVVWa8ZTGz1VbFj_lXBM2b)
+*![image of concert-this](https://i.imgur.com/h1UVUD9.jpg)
 
-*![concert-this](https://drive.google.com/open?id=1SO602MBhoAR1CQezskN4iTJKpzZLej5q)
+*![image of concert-this](https://i.imgur.com/QFjJqIA.jpg)
 
 ### **movie-this example** (includes a result if you don't search a title, defaulting to _"Mr. Nobody"_)
 * example input `node liri.js movie-this fight club`
 * example input `node liri.js movie-this captain marvel`
 * example input `node liri.js movie-this`
-* ![movie-this](https://drive.google.com/open?id=1TDnK-V-dlPNIpUbMSdNvwLt7bvn45le7)
+* ![image of movie-this](https://i.imgur.com/Gsk13hQ.jpg)
 
 ### **spotify-this-song example** (includes a result if you don't search a title, defaulting to _"The Sign"_)
 * example input: `node liri.js spotify-this-song i feel good`
 * example input `node liri.js spotify-this-song`
-* ![spotify-this-song](https://drive.google.com/open?id=1eZBX3xdoQ5rntPwfswdgT4iTh9Oof3Ii)
+* ![image of spotify-this-song](https://i.imgur.com/fLvVBTH.jpg)

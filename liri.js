@@ -78,7 +78,7 @@ function doWhat() {
         if (error) {
             return console.log(error);
         }
-
+        
         let text = data.split(",");
         spotifyThisSong(text);
     });
